@@ -78,10 +78,9 @@
 
 > **Bu proje,Dokuz Eylül Üniversitesi Yönetim Bilişim Sistemleri Bölümü Bilişim Sistemleri Analizi ve Tasarımı Dersi Dönem Proje Ödevi olarak kullanıcı dostu bir yönetim aracı ile klinik personelinin iş yükünü hafifletmek ve hasta memnuniyetini artırmak amacıyla tasarlanmıştır..**
 
-🚀 **Geliştiriciler:**   
-[Hasan Erdem](https://github.com/hasanerdemgit) 
-[Onur KANBOLAT](https://github.com/onurknblt)
+🚀 **Geliştiriciler:**   [Hasan Erdem](https://github.com/hasanerdemgit)           [Onur KANBOLAT](https://github.com/onurknblt)
+
 📧 **E-posta adresleri:** 
-mailhasanerdem@gmail.com
-onurknblt@gmail.com 
+mailhasanerdem@gmail.com        onurknblt@gmail.com 
+
 📅 **Tarih:** Ocak 2025
